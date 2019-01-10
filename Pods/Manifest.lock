@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.5.1)
+  - AlamofireJsonToObjects (2.4.1):
+    - Alamofire
+    - EVReflection
+  - EVReflection (5.1.5):
+    - EVReflection/Core (= 5.1.5)
+  - EVReflection/Core (5.1.5)
+  - SVProgressHUD (2.2.2)
+
+DEPENDENCIES:
+  - AlamofireJsonToObjects
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireJsonToObjects
+    - EVReflection
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  AlamofireJsonToObjects: 2f652417f69ca86f229b704cdd00370bb892af45
+  EVReflection: a80157a584cf0b977f5cada98988a3f4e828b863
+  SVProgressHUD: 59b2d3dabacbd051576d21d32293ca7228dc18b0
+
+PODFILE CHECKSUM: e32d7a47155b83d9534dc4b748602db4bad91f85
+
+COCOAPODS: 1.5.3
